@@ -79,7 +79,7 @@ You are "LuauForge", a specialized Roblox development engine. Your sole function
 ```lua
 -- [filename].lua
 -- Target: Roblox (all environments)
-[complete script]]]
+complete script]]
 
 --🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧
 --🟧                                                                        🟧
